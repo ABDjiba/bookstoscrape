@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-data=pd.read_csv("C:/Users/User/Desktop/base_finale.csv")
+data=pd.read_csv("base_finale.csv")
 data=pd.DataFrame(data)
 
 filtre = st.sidebar.multiselect("Sélectionnez des catégorie", data["Catégorie"].unique())
