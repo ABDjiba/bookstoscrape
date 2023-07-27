@@ -1,0 +1,1001 @@
+,Catégorie,Titre,Prix,Note,Disponibilité,Prix_euro
+0,travel,It's Only the Himalayas,£45.17,2,In stock,52.33
+1,travel,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,£49.43,4,In stock,56.98
+2,travel,See America: A Celebration of Our National Parks & Treasured Sites,£48.87,3,In stock,55.81
+3,travel,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,£36.94,2,In stock,41.86
+4,travel,Under the Tuscan Sun,£37.33,3,In stock,43.02
+5,travel,A Summer In Europe,£44.34,2,In stock,51.16
+6,travel,The Great Railway Bazaar,£30.54,1,In stock,34.88
+7,travel,A Year in Provence (Provence #1),£56.88,4,In stock,65.12
+8,travel,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),£23.21,1,In stock,26.74
+9,travel,Neither Here nor There: Travels in Europe,£38.95,3,In stock,44.19
+10,travel,"1,000 Places to See Before You Die",£26.08,5,In stock,30.23
+11,mystery,Sharp Objects,£47.82,4,In stock,54.65
+12,mystery,"In a Dark, Dark Wood",£19.63,1,In stock,22.09
+13,mystery,The Past Never Ends,£56.50,4,In stock,65.12
+14,mystery,A Murder in Time,£16.64,1,In stock,18.6
+15,mystery,The Murder of Roger Ackroyd (Hercule Poirot #4),£44.10,4,In stock,51.16
+16,mystery,The Last Mile (Amos Decker #2),£54.21,2,In stock,62.79
+17,mystery,That Darkness (Gardiner and Renner #1),£13.92,1,In stock,15.12
+18,mystery,Tastes Like Fear (DI Marnie Rome #3),£10.69,1,In stock,11.63
+19,mystery,A Time of Torment (Charlie Parker #14),£48.35,5,In stock,55.81
+20,mystery,A Study in Scarlet (Sherlock Holmes #1),£16.73,2,In stock,18.6
+21,mystery,Poisonous (Max Revere Novels #3),£26.80,3,In stock,30.23
+22,mystery,Murder at the 42nd Street Library (Raymond Ambler #1),£54.36,4,In stock,62.79
+23,mystery,Most Wanted,£35.28,3,In stock,40.7
+24,mystery,Hide Away (Eve Duncan #20),£11.84,1,In stock,12.79
+25,mystery,Boar Island (Anna Pigeon #19),£59.48,3,In stock,68.6
+26,mystery,The Widow,£27.26,2,In stock,31.4
+27,mystery,Playing with Fire,£13.71,3,In stock,15.12
+28,mystery,What Happened on Beale Street (Secrets of the South Mysteries #2),£25.37,5,In stock,29.07
+29,mystery,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),£52.30,5,In stock,60.47
+30,mystery,Delivering the Truth (Quaker Midwife Mystery #1),£20.89,4,In stock,23.26
+31,mystery,The Mysterious Affair at Styles (Hercule Poirot #1),£24.80,4,In stock,27.91
+32,mystery,In the Woods (Dublin Murder Squad #1),£38.38,2,In stock,44.19
+33,mystery,The Silkworm (Cormoran Strike #2),£23.05,5,In stock,26.74
+34,mystery,The Exiled,£43.45,3,In stock,50.0
+35,mystery,The Cuckoo's Calling (Cormoran Strike #1),£19.21,1,In stock,22.09
+36,mystery,Extreme Prey (Lucas Davenport #26),£25.40,3,In stock,29.07
+37,mystery,Career of Evil (Cormoran Strike #3),£24.72,2,In stock,27.91
+38,mystery,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),£57.70,4,In stock,66.28
+39,mystery,The Girl You Lost,£12.29,5,In stock,13.95
+40,mystery,The Girl In The Ice (DCI Erika Foster #1),£15.85,3,In stock,17.44
+41,mystery,Blood Defense (Samantha Brinkman #1),£20.30,3,In stock,23.26
+42,mystery,1st to Die (Women's Murder Club #1),£53.98,1,In stock,61.63
+43,historical-fiction,Tipping the Velvet,£53.74,1,In stock,61.63
+44,historical-fiction,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,£29.69,3,In stock,33.72
+45,historical-fiction,A Flight of Arrows (The Pathfinders #2),£55.53,5,In stock,63.95
+46,historical-fiction,The House by the Lake,£36.95,1,In stock,41.86
+47,historical-fiction,Mrs. Houdini,£30.25,5,In stock,34.88
+48,historical-fiction,The Marriage of Opposites,£28.08,4,In stock,32.56
+49,historical-fiction,Glory over Everything: Beyond The Kitchen House,£45.84,3,In stock,52.33
+50,historical-fiction,"Love, Lies and Spies",£20.55,2,In stock,23.26
+51,historical-fiction,A Paris Apartment,£39.01,4,In stock,45.35
+52,historical-fiction,Lilac Girls,£17.28,2,In stock,19.77
+53,historical-fiction,The Constant Princess (The Tudor Court #1),£16.62,3,In stock,18.6
+54,historical-fiction,The Invention of Wings,£37.34,1,In stock,43.02
+55,historical-fiction,World Without End (The Pillars of the Earth #2),£32.97,4,In stock,37.21
+56,historical-fiction,The Passion of Dolssa,£28.32,5,In stock,32.56
+57,historical-fiction,Girl With a Pearl Earring,£26.77,1,In stock,30.23
+58,historical-fiction,Voyager (Outlander #3),£21.07,5,In stock,24.42
+59,historical-fiction,The Red Tent,£35.66,5,In stock,40.7
+60,historical-fiction,The Last Painting of Sara de Vos,£55.55,2,In stock,63.95
+61,historical-fiction,The Guernsey Literary and Potato Peel Pie Society,£49.53,1,In stock,56.98
+62,historical-fiction,Girl in the Blue Coat,£46.83,2,In stock,53.49
+63,historical-fiction,Between Shades of Gray,£20.79,5,In stock,23.26
+64,historical-fiction,While You Were Mine,£41.32,5,In stock,47.67
+65,historical-fiction,The Secret Healer,£34.56,3,In stock,39.53
+66,historical-fiction,Starlark,£25.83,3,In stock,29.07
+67,historical-fiction,Lost Among the Living,£27.70,4,In stock,31.4
+68,historical-fiction,A Spy's Devotion (The Regency Spies of London #1),£16.97,5,In stock,18.6
+69,sequential-art,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),£52.29,5,In stock,60.47
+70,sequential-art,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),£16.28,1,In stock,18.6
+71,sequential-art,This One Summer,£19.49,4,In stock,22.09
+72,sequential-art,The Nameless City (The Nameless City #1),£38.16,4,In stock,44.19
+73,sequential-art,"Saga, Volume 5 (Saga (Collected Editions) #5)",£51.04,2,In stock,59.3
+74,sequential-art,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",£50.40,3,In stock,58.14
+75,sequential-art,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",£13.61,5,In stock,15.12
+76,sequential-art,"Pop Gun War, Volume 1: Gift",£18.97,1,In stock,20.93
+77,sequential-art,Patience,£10.16,3,In stock,11.63
+78,sequential-art,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",£15.44,4,In stock,17.44
+79,sequential-art,orange: The Complete Collection 1 (orange: The Complete Collection #1),£48.41,1,In stock,55.81
+80,sequential-art,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",£46.91,2,In stock,53.49
+81,sequential-art,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",£45.61,3,In stock,52.33
+82,sequential-art,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),£19.92,2,In stock,22.09
+83,sequential-art,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",£29.17,2,In stock,33.72
+84,sequential-art,I am a Hero Omnibus Volume 1,£54.63,3,In stock,62.79
+85,sequential-art,"Giant Days, Vol. 2 (Giant Days #5-8)",£22.11,2,In stock,25.58
+86,sequential-art,Danganronpa Volume 1,£51.99,4,In stock,59.3
+87,sequential-art,"Codename Baboushka, Volume 1: The Conclave of Death",£36.72,4,In stock,41.86
+88,sequential-art,Camp Midnight,£17.08,4,In stock,19.77
+89,sequential-art,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",£37.92,2,In stock,43.02
+90,sequential-art,The Shadow Hero (The Shadow Hero),£33.14,1,In stock,38.37
+91,sequential-art,"Fables, Vol. 1: Legends in Exile (Fables #1)",£41.62,4,In stock,47.67
+92,sequential-art,Batman: The Long Halloween (Batman),£36.50,2,In stock,41.86
+93,sequential-art,Batman: The Dark Knight Returns (Batman),£15.38,5,In stock,17.44
+94,sequential-art,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",£37.34,4,In stock,43.02
+95,sequential-art,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",£53.90,1,In stock,61.63
+96,sequential-art,Through the Woods,£25.38,2,In stock,29.07
+97,sequential-art,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),£11.89,5,In stock,12.79
+98,sequential-art,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",£35.43,4,In stock,40.7
+99,sequential-art,Robin War,£47.82,3,In stock,54.65
+100,sequential-art,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",£25.48,2,In stock,29.07
+101,sequential-art,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",£38.39,2,In stock,44.19
+102,sequential-art,Lowriders to the Center of the Earth (Lowriders in Space #2),£51.51,2,In stock,59.3
+103,sequential-art,El Deafo,£57.62,5,In stock,66.28
+104,sequential-art,Batman: Europa,£32.01,2,In stock,37.21
+105,sequential-art,Art Ops Vol. 1,£48.80,3,In stock,55.81
+106,sequential-art,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",£10.90,2,In stock,11.63
+107,sequential-art,"Fruits Basket, Vol. 9 (Fruits Basket #9)",£33.95,4,In stock,38.37
+108,sequential-art,Roller Girl,£14.10,5,In stock,16.28
+109,sequential-art,"Fruits Basket, Vol. 7 (Fruits Basket #7)",£19.57,1,In stock,22.09
+110,sequential-art,"Fruits Basket, Vol. 6 (Fruits Basket #6)",£20.96,4,In stock,23.26
+111,sequential-art,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",£36.39,3,In stock,41.86
+112,sequential-art,"Fruits Basket, Vol. 5 (Fruits Basket #5)",£16.33,1,In stock,18.6
+113,sequential-art,"Death Note, Vol. 5: Whiteout (Death Note #5)",£52.41,1,In stock,60.47
+114,sequential-art,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",£27.88,2,In stock,31.4
+115,sequential-art,"Fruits Basket, Vol. 4 (Fruits Basket #4)",£50.44,4,In stock,58.14
+116,sequential-art,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",£14.41,3,In stock,16.28
+117,sequential-art,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",£55.55,5,In stock,63.95
+118,sequential-art,"Saga, Volume 3 (Saga (Collected Editions) #3)",£21.57,5,In stock,24.42
+119,sequential-art,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),£43.63,3,In stock,50.0
+120,sequential-art,Persepolis: The Story of a Childhood (Persepolis #1-2),£39.13,1,In stock,45.35
+121,sequential-art,Original Fake,£31.45,3,In stock,36.05
+122,sequential-art,"Grayson, Vol 3: Nemesis (Grayson #3)",£42.72,1,In stock,48.84
+123,sequential-art,"Fruits Basket, Vol. 3 (Fruits Basket #3)",£45.17,2,In stock,52.33
+124,sequential-art,"Black Butler, Vol. 1 (Black Butler #1)",£49.31,1,In stock,56.98
+125,sequential-art,Awkward,£38.02,2,In stock,44.19
+126,sequential-art,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",£54.81,1,In stock,62.79
+127,sequential-art,"Saga, Volume 2 (Saga (Collected Editions) #2)",£11.75,3,In stock,12.79
+128,sequential-art,"Fruits Basket, Vol. 2 (Fruits Basket #2)",£11.64,5,In stock,12.79
+129,sequential-art,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",£18.51,4,In stock,20.93
+130,sequential-art,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",£36.52,2,In stock,41.86
+131,sequential-art,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",£54.12,3,In stock,62.79
+132,sequential-art,The Complete Maus (Maus #1-2),£10.64,3,In stock,11.63
+133,sequential-art,"Skip Beat!, Vol. 01 (Skip Beat! #1)",£42.12,3,In stock,48.84
+134,sequential-art,"Saga, Volume 1 (Saga (Collected Editions) #1)",£28.48,1,In stock,32.56
+135,sequential-art,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",£46.96,5,In stock,53.49
+136,sequential-art,"Paper Girls, Vol. 1 (Paper Girls #1-5)",£21.71,4,In stock,24.42
+137,sequential-art,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",£29.87,3,In stock,33.72
+138,sequential-art,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",£39.39,4,In stock,45.35
+139,sequential-art,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",£45.24,3,In stock,52.33
+140,sequential-art,"Giant Days, Vol. 1 (Giant Days #1-4)",£56.76,4,In stock,65.12
+141,sequential-art,"Fruits Basket, Vol. 1 (Fruits Basket #1)",£40.28,5,In stock,46.51
+142,sequential-art,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",£34.65,5,In stock,39.53
+143,sequential-art,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",£57.06,4,In stock,66.28
+144,classics,The Secret Garden,£15.08,4,In stock,17.44
+145,classics,The Metamorphosis,£28.58,1,In stock,32.56
+146,classics,The Pilgrim's Progress,£50.26,2,In stock,58.14
+147,classics,The Hound of the Baskervilles (Sherlock Holmes #5),£14.82,2,In stock,16.28
+148,classics,Little Women (Little Women #1),£28.07,4,In stock,32.56
+149,classics,Gone with the Wind,£32.49,3,In stock,37.21
+150,classics,Candide,£58.63,3,In stock,67.44
+151,classics,Animal Farm,£57.22,3,In stock,66.28
+152,classics,Wuthering Heights,£17.73,3,In stock,19.77
+153,classics,The Picture of Dorian Gray,£29.70,2,In stock,33.72
+154,classics,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),£26.78,4,In stock,30.23
+155,classics,Beowulf,£38.35,2,In stock,44.19
+156,classics,And Then There Were None,£35.01,2,In stock,40.7
+157,classics,The Story of Hong Gildong,£43.19,4,In stock,50.0
+158,classics,The Little Prince,£45.42,2,In stock,52.33
+159,classics,Sense and Sensibility,£37.46,1,In stock,43.02
+160,classics,Of Mice and Men,£47.11,2,In stock,54.65
+161,classics,Emma,£32.93,2,In stock,37.21
+162,classics,Alice in Wonderland (Alice's Adventures in Wonderland #1),£55.53,1,In stock,63.95
+163,philosophy,Sophie's World,£15.94,5,In stock,17.44
+164,philosophy,The Death of Humanity: and the Case for Life,£58.11,4,In stock,67.44
+165,philosophy,The Stranger,£17.44,4,In stock,19.77
+166,philosophy,Proofs of God: Classical Arguments from Tertullian to Barth,£54.21,1,In stock,62.79
+167,philosophy,Kierkegaard: A Christian Missionary to Christians,£47.13,1,In stock,54.65
+168,philosophy,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",£29.93,5,In stock,33.72
+169,philosophy,Critique of Pure Reason,£20.75,1,In stock,23.26
+170,philosophy,"Run, Spot, Run: The Ethics of Keeping Pets",£20.02,1,In stock,23.26
+171,philosophy,The Nicomachean Ethics,£36.34,1,In stock,41.86
+172,philosophy,Meditations,£25.89,2,In stock,29.07
+173,philosophy,Beyond Good and Evil,£43.38,1,In stock,50.0
+174,romance,Chase Me (Paris Nights #2),£25.27,5,In stock,29.07
+175,romance,Black Dust,£34.53,5,In stock,39.53
+176,romance,Her Backup Boyfriend (The Sorensen Family #1),£33.97,1,In stock,38.37
+177,romance,First and First (Five Boroughs #3),£15.97,4,In stock,17.44
+178,romance,Fifty Shades Darker (Fifty Shades #2),£21.96,1,In stock,24.42
+179,romance,The Wedding Dress,£24.12,1,In stock,27.91
+180,romance,Suddenly in Love (Lake Haven #1),£55.99,2,In stock,63.95
+181,romance,Something More Than This,£16.24,4,In stock,18.6
+182,romance,Doing It Over (Most Likely To #1),£35.61,3,In stock,40.7
+183,romance,The Wedding Pact (The O'Malleys #2),£32.61,3,In stock,37.21
+184,romance,Hold Your Breath (Search and Rescue #1),£28.82,1,In stock,32.56
+185,romance,Dirty (Dive Bar #1),£40.83,4,In stock,46.51
+186,romance,Take Me Home Tonight (Rock Star Romance #3),£53.98,3,In stock,61.63
+187,romance,Off the Hook (Fishing for Trouble #1),£47.67,3,In stock,54.65
+188,romance,A Gentleman's Position (Society of Gentlemen #3),£14.75,5,In stock,16.28
+189,romance,"Sit, Stay, Love",£20.90,3,In stock,23.26
+190,romance,A Girl's Guide to Moving On (New Beginnings #2),£31.30,1,In stock,36.05
+191,romance,The Perfect Play (Play by Play #1),£59.99,3,In stock,68.6
+192,romance,Dark Lover (Black Dagger Brotherhood #1),£12.87,1,In stock,13.95
+193,romance,Changing the Game (Play by Play #2),£13.38,3,In stock,15.12
+194,romance,A Walk to Remember,£56.43,1,In stock,65.12
+195,romance,The Purest Hook (Second Circle Tattoos #3),£12.25,1,In stock,13.95
+196,romance,The Obsession,£45.43,1,In stock,52.33
+197,romance,Reservations for Two,£11.10,3,In stock,12.79
+198,romance,Best of My Love (Fool's Gold #20),£27.41,2,In stock,31.4
+199,romance,Where Lightning Strikes (Bleeding Stars #3),£39.77,3,In stock,45.35
+200,romance,This One Moment (Pushing Limits #1),£48.71,1,In stock,55.81
+201,romance,"Rhythm, Chord & Malykhin",£28.34,2,In stock,32.56
+202,romance,My Perfect Mistake (Over the Top #1),£38.92,2,In stock,44.19
+203,romance,Listen to Me (Fusion #1),£58.99,3,In stock,67.44
+204,romance,Imperfect Harmony,£34.74,4,In stock,39.53
+205,romance,Fighting Fate (Fighting #6),£39.24,3,In stock,45.35
+206,romance,Deep Under (Walker Security #1),£47.09,5,In stock,54.65
+207,romance,Charity's Cross (Charles Towne Belles #4),£41.24,1,In stock,47.67
+208,romance,Bounty (Colorado Mountain #7),£37.26,4,In stock,43.02
+209,womens-fiction,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,£57.36,4,In stock,66.28
+210,womens-fiction,Will You Won't You Want Me?,£13.86,3,In stock,15.12
+211,womens-fiction,Keep Me Posted,£20.46,4,In stock,23.26
+212,womens-fiction,Grey (Fifty Shades #4),£48.49,4,In stock,55.81
+213,womens-fiction,Meternity,£43.58,3,In stock,50.0
+214,womens-fiction,Some Women,£13.73,5,In stock,15.12
+215,womens-fiction,Shopaholic Ties the Knot (Shopaholic #3),£48.39,5,In stock,55.81
+216,womens-fiction,Can You Keep a Secret?,£21.94,1,In stock,24.42
+217,womens-fiction,Twenties Girl,£42.80,2,In stock,48.84
+218,womens-fiction,The Undomestic Goddess,£45.75,4,In stock,52.33
+219,womens-fiction,The Nanny Diaries (Nanny #1),£52.53,5,In stock,60.47
+220,womens-fiction,The Devil Wears Prada (The Devil Wears Prada #1),£44.29,1,In stock,51.16
+221,womens-fiction,Something Borrowed (Darcy & Rachel #1),£48.96,5,In stock,55.81
+222,womens-fiction,Something Blue (Darcy & Rachel #2),£54.62,1,In stock,62.79
+223,womens-fiction,I've Got Your Number,£19.69,1,In stock,22.09
+224,womens-fiction,The Edge of Reason (Bridget Jones #2),£19.18,4,In stock,22.09
+225,womens-fiction,Bridget Jones's Diary (Bridget Jones #1),£29.82,1,In stock,33.72
+226,fiction,Soumission,£50.10,1,In stock,58.14
+227,fiction,Private Paris (Private #10),£47.61,5,In stock,54.65
+228,fiction,"We Love You, Charlie Freeman",£50.27,5,In stock,58.14
+229,fiction,Thirst,£17.27,5,In stock,19.77
+230,fiction,The Murder That Never Was (Forensic Instincts #5),£54.11,3,In stock,62.79
+231,fiction,Tuesday Nights in 1980,£21.04,2,In stock,24.42
+232,fiction,The Vacationers,£42.15,4,In stock,48.84
+233,fiction,The Regional Office Is Under Attack!,£51.36,5,In stock,59.3
+234,fiction,Finders Keepers (Bill Hodges Trilogy #2),£53.53,5,In stock,61.63
+235,fiction,The Time Keeper,£27.88,5,In stock,31.4
+236,fiction,The Testament of Mary,£52.67,4,In stock,60.47
+237,fiction,The First Hostage (J.B. Collins #2),£25.85,3,In stock,29.07
+238,fiction,Take Me with You,£45.21,3,In stock,52.33
+239,fiction,Still Life with Bread Crumbs,£26.41,3,In stock,30.23
+240,fiction,Shtum,£55.84,4,In stock,63.95
+241,fiction,My Name Is Lucy Barton,£41.56,1,In stock,47.67
+242,fiction,My Mrs. Brown,£24.48,3,In stock,27.91
+243,fiction,Mr. Mercedes (Bill Hodges Trilogy #1),£28.90,1,In stock,32.56
+244,fiction,I Am Pilgrim (Pilgrim #1),£10.60,4,In stock,11.63
+245,fiction,Eligible (The Austen Project #4),£27.09,3,In stock,31.4
+246,fiction,Eight Hundred Grapes,£14.39,4,In stock,16.28
+247,fiction,Dear Mr. Knightley,£11.21,5,In stock,12.79
+248,fiction,Cometh the Hour (The Clifton Chronicles #6),£25.01,3,In stock,29.07
+249,fiction,Balloon Animals,£17.03,3,In stock,19.77
+250,fiction,A Man Called Ove,£39.72,1,In stock,45.35
+251,fiction,The Silent Sister (Riley MacPherson #1),£46.29,5,In stock,53.49
+252,fiction,The Dinner Party,£56.54,2,In stock,65.12
+253,fiction,The Improbability of Love,£59.45,1,In stock,68.6
+254,fiction,Mothering Sunday,£13.34,2,In stock,15.12
+255,fiction,Lies and Other Acts of Love,£45.14,1,In stock,52.33
+256,fiction,Daredevils,£16.34,3,In stock,18.6
+257,fiction,11/22/63,£48.48,3,In stock,55.81
+258,fiction,The Shack,£28.03,1,In stock,32.56
+259,fiction,The High Mountains of Portugal,£51.15,1,In stock,59.3
+260,fiction,Miller's Valley,£58.54,2,In stock,67.44
+261,fiction,Hystopia: A Novel,£21.96,4,In stock,24.42
+262,fiction,The Bourne Identity (Jason Bourne #1),£42.78,4,In stock,48.84
+263,fiction,Sister Dear,£40.20,4,In stock,46.51
+264,fiction,Memoirs of a Geisha,£49.67,3,In stock,56.98
+265,fiction,Me Before You (Me Before You #1),£19.02,1,In stock,22.09
+266,fiction,Deception Point,£40.32,4,In stock,46.51
+267,fiction,The Little Paris Bookshop,£24.73,3,In stock,27.91
+268,fiction,The Firm,£45.56,3,In stock,52.33
+269,fiction,The Expatriates,£44.58,2,In stock,51.16
+270,fiction,Siddhartha,£34.22,5,In stock,39.53
+271,fiction,Last One Home (New Beginnings #1),£59.98,3,In stock,68.6
+272,fiction,Digital Fortress,£58.00,5,In stock,67.44
+273,fiction,Atlas Shrugged,£26.58,5,In stock,30.23
+274,fiction,Three-Martini Lunch,£23.21,3,In stock,26.74
+275,fiction,The Nightingale,£26.26,4,In stock,30.23
+276,fiction,The Infinities,£27.41,1,In stock,31.4
+277,fiction,The Husband's Secret,£52.51,5,In stock,60.47
+278,fiction,The Da Vinci Code (Robert Langdon #2),£22.96,2,In stock,25.58
+279,fiction,The Art of Fielding,£22.10,1,In stock,25.58
+280,fiction,Lila (Gilead #3),£12.47,3,In stock,13.95
+281,fiction,Jurassic Park (Jurassic Park #1),£44.97,1,In stock,51.16
+282,fiction,Inferno (Robert Langdon #4),£41.00,5,In stock,47.67
+283,fiction,Crazy Rich Asians (Crazy Rich Asians #1),£49.13,5,In stock,56.98
+284,fiction,Big Little Lies,£22.11,1,In stock,25.58
+285,fiction,The Course of Love,£16.78,3,In stock,18.6
+286,fiction,When I'm Gone,£51.96,3,In stock,59.3
+287,fiction,The Silent Wife,£12.34,5,In stock,13.95
+288,fiction,The Bette Davis Club,£30.66,3,In stock,34.88
+289,fiction,Kitchens of the Great Midwest,£57.20,5,In stock,66.28
+290,fiction,Bright Lines,£39.07,5,In stock,45.35
+291,childrens,Birdsong: A Story in Pictures,£54.64,3,In stock,62.79
+292,childrens,The Bear and the Piano,£36.89,1,In stock,41.86
+293,childrens,The Secret of Dreadwillow Carse,£56.13,1,In stock,65.12
+294,childrens,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,£58.08,4,In stock,67.44
+295,childrens,Little Red,£13.47,3,In stock,15.12
+296,childrens,Walt Disney's Alice in Wonderland,£12.96,5,In stock,13.95
+297,childrens,Twenty Yawns,£22.08,2,In stock,25.58
+298,childrens,Rain Fish,£23.57,3,In stock,26.74
+299,childrens,Once Was a Time,£18.28,2,In stock,20.93
+300,childrens,Luis Paints the World,£53.95,3,In stock,61.63
+301,childrens,Nap-a-Roo,£25.08,1,In stock,29.07
+302,childrens,The Whale,£35.96,4,In stock,40.7
+303,childrens,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",£52.87,3,In stock,60.47
+304,childrens,Raymie Nightingale,£34.41,2,In stock,39.53
+305,childrens,Playing from the Heart,£32.38,1,In stock,37.21
+306,childrens,Maybe Something Beautiful: How Art Transformed a Neighborhood,£22.54,1,In stock,25.58
+307,childrens,The Wild Robot,£56.07,3,In stock,65.12
+308,childrens,The Thing About Jellyfish,£48.77,1,In stock,55.81
+309,childrens,The Lonely Ones,£43.59,5,In stock,50.0
+310,childrens,The Day the Crayons Came Home (Crayons),£26.33,5,In stock,30.23
+311,childrens,The Cat in the Hat (Beginner Books B-1),£16.26,2,In stock,18.6
+312,childrens,Red: The True Story of Red Riding Hood,£28.54,3,In stock,32.56
+313,childrens,Horrible Bear!,£37.52,2,In stock,43.02
+314,childrens,Green Eggs and Ham (Beginner Books B-16),£10.79,4,In stock,11.63
+315,childrens,Counting Thyme,£10.62,1,In stock,11.63
+316,childrens,Are We There Yet?,£10.66,3,In stock,11.63
+317,childrens,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),£52.88,4,In stock,60.47
+318,childrens,Matilda,£28.34,1,In stock,32.56
+319,childrens,Charlie and the Chocolate Factory (Charlie Bucket #1),£22.85,3,In stock,25.58
+320,religion,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",£37.97,2,In stock,43.02
+321,religion,You Are What You Love: The Spiritual Power of Habit,£21.87,4,In stock,24.42
+322,religion,God: The Most Unpleasant Character in All Fiction,£30.03,5,In stock,34.88
+323,religion,The Book of Mormon,£24.57,3,In stock,27.91
+324,religion,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",£27.62,1,In stock,31.4
+325,religion,The Bhagavad Gita,£57.49,3,In stock,66.28
+326,religion,Choosing Our Religion: The Spiritual Lives of America's Nones,£28.42,4,In stock,32.56
+327,nonfiction,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,£40.30,5,In stock,46.51
+328,nonfiction,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,£31.05,3,In stock,36.05
+329,nonfiction,Reasons to Stay Alive,£26.41,2,In stock,30.23
+330,nonfiction,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,£23.11,5,In stock,26.74
+331,nonfiction,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",£44.18,4,In stock,51.16
+332,nonfiction,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,£31.12,3,In stock,36.05
+333,nonfiction,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,£16.77,3,In stock,18.6
+334,nonfiction,The Gutsy Girl: Escapades for Your Life of Epic Adventure,£37.13,1,In stock,43.02
+335,nonfiction,The Electric Pencil: Drawings from Inside State Hospital No. 3,£56.06,1,In stock,65.12
+336,nonfiction,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,£41.83,4,In stock,47.67
+337,nonfiction,Reskilling America: Learning to Labor in the Twenty-First Century,£19.83,2,In stock,22.09
+338,nonfiction,In the Country We Love: My Family Divided,£22.00,4,In stock,25.58
+339,nonfiction,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,£54.35,2,In stock,62.79
+340,nonfiction,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,£29.14,5,In stock,33.72
+341,nonfiction,Algorithms to Live By: The Computer Science of Human Decisions,£30.81,1,In stock,34.88
+342,nonfiction,The Power of Now: A Guide to Spiritual Enlightenment,£43.54,2,In stock,50.0
+343,nonfiction,The Omnivore's Dilemma: A Natural History of Four Meals,£38.21,2,In stock,44.19
+344,nonfiction,The Genius of Birds,£17.24,1,In stock,19.77
+345,nonfiction,The Artist's Way: A Spiritual Path to Higher Creativity,£38.49,5,In stock,44.19
+346,nonfiction,So You've Been Publicly Shamed,£12.23,2,In stock,13.95
+347,nonfiction,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",£19.43,3,In stock,22.09
+348,nonfiction,Big Magic: Creative Living Beyond Fear,£30.80,3,In stock,34.88
+349,nonfiction,Becoming Wise: An Inquiry into the Mystery and Art of Living,£27.43,2,In stock,31.4
+350,nonfiction,Agnostic: A Spirited Manifesto,£12.51,5,In stock,13.95
+351,nonfiction,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,£38.20,4,In stock,44.19
+352,nonfiction,What's It Like in Space?: Stories from Astronauts Who've Been There,£19.60,2,In stock,22.09
+353,nonfiction,The Year of Magical Thinking,£43.04,2,In stock,50.0
+354,nonfiction,The Literature Book (Big Ideas Simply Explained),£17.43,3,In stock,19.77
+355,nonfiction,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,£15.77,1,In stock,17.44
+356,nonfiction,Swell: A Year of Waves,£45.58,1,In stock,52.33
+357,nonfiction,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,£21.95,2,In stock,24.42
+358,nonfiction,Looking for Lovely: Collecting the Moments that Matter,£29.14,5,In stock,33.72
+359,nonfiction,Let It Out: A Journey Through Journaling,£26.79,5,In stock,30.23
+360,nonfiction,Hamilton: The Revolution,£58.79,3,In stock,67.44
+361,nonfiction,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",£15.06,4,In stock,17.44
+362,nonfiction,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",£51.75,5,In stock,59.3
+363,nonfiction,Buying In: The Secret Dialogue Between What We Buy and Who We Are,£37.80,4,In stock,43.02
+364,nonfiction,Brain on Fire: My Month of Madness,£49.32,5,In stock,56.98
+365,nonfiction,Abstract City,£56.37,5,In stock,65.12
+366,nonfiction,13 Hours: The Inside Account of What Really Happened In Benghazi,£27.06,1,In stock,31.4
+367,nonfiction,The Lonely City: Adventures in the Art of Being Alone,£33.26,2,In stock,38.37
+368,nonfiction,The Diary of a Young Girl,£59.90,3,In stock,68.6
+369,nonfiction,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,£21.21,3,In stock,24.42
+370,nonfiction,Furiously Happy: A Funny Book About Horrible Things,£41.46,4,In stock,47.67
+371,nonfiction,"The Sleep Revolution: Transforming Your Life, One Night at a Time",£11.68,4,In stock,12.79
+372,nonfiction,"Mother, Can You Not?",£16.89,5,In stock,18.6
+373,nonfiction,A Mother's Reckoning: Living in the Aftermath of Tragedy,£19.53,3,In stock,22.09
+374,nonfiction,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",£24.57,2,In stock,27.91
+375,nonfiction,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,£35.92,2,In stock,40.7
+376,nonfiction,"Zero to One: Notes on Startups, or How to Build the Future",£34.06,3,In stock,39.53
+377,nonfiction,Why Not Me?,£17.76,1,In stock,19.77
+378,nonfiction,When Breath Becomes Air,£39.36,2,In stock,45.35
+379,nonfiction,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",£28.45,4,In stock,32.56
+380,nonfiction,Smarter Faster Better: The Secrets of Being Productive in Life and Business,£38.89,5,In stock,44.19
+381,nonfiction,Rising Strong,£21.82,3,In stock,24.42
+382,nonfiction,Man's Search for Meaning,£29.48,3,In stock,33.72
+383,nonfiction,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",£25.06,2,In stock,29.07
+384,nonfiction,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,£12.55,3,In stock,13.95
+385,nonfiction,I Will Find You,£44.21,1,In stock,51.16
+386,nonfiction,Brazen: The Courage to Find the You That's Been Hiding,£19.22,2,In stock,22.09
+387,nonfiction,Between the World and Me,£56.91,4,In stock,65.12
+388,nonfiction,Being Mortal: Medicine and What Matters in the End,£55.06,4,In stock,63.95
+389,nonfiction,"A Murder Over a Girl: Justice, Gender, Junior High",£13.20,3,In stock,15.12
+390,nonfiction,For the Love: Fighting for Grace in a World of Impossible Standards,£45.13,3,In stock,52.33
+391,nonfiction,Finding God in the Ruins: How God Redeems Pain,£46.64,2,In stock,53.49
+392,nonfiction,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,£59.45,4,In stock,68.6
+393,nonfiction,In Cold Blood,£49.98,4,In stock,56.98
+394,nonfiction,"Girl, Interrupted",£42.14,3,In stock,48.84
+395,nonfiction,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,£48.67,2,In stock,55.81
+396,nonfiction,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,£25.15,4,In stock,29.07
+397,nonfiction,My Mother Was Nuts,£31.63,4,In stock,36.05
+398,nonfiction,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",£32.35,3,In stock,37.21
+399,nonfiction,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,£38.71,3,In stock,44.19
+400,nonfiction,The Gunning of America: Business and the Making of American Gun Culture,£16.81,4,In stock,18.6
+401,nonfiction,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,£28.23,2,In stock,32.56
+402,nonfiction,God Is Not Great: How Religion Poisons Everything,£27.80,1,In stock,31.4
+403,nonfiction,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,£31.95,3,In stock,36.05
+404,nonfiction,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,£50.66,3,In stock,58.14
+405,nonfiction,"Unstuffed: Decluttering Your Home, Mind, and Soul",£58.09,1,In stock,67.44
+406,nonfiction,Under the Banner of Heaven: A Story of Violent Faith,£30.00,1,In stock,34.88
+407,nonfiction,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",£53.51,1,In stock,61.63
+408,nonfiction,The Name of God is Mercy,£37.25,2,In stock,43.02
+409,nonfiction,Stiff: The Curious Lives of Human Cadavers,£36.74,3,In stock,41.86
+410,nonfiction,Spilled Milk: Based on a True Story,£49.51,1,In stock,56.98
+411,nonfiction,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",£41.67,4,In stock,47.67
+412,nonfiction,Outliers: The Story of Success,£14.16,1,In stock,16.28
+413,nonfiction,Notes from a Small Island (Notes From a Small Island #1),£40.17,1,In stock,46.51
+414,nonfiction,Night (The Night Trilogy #1),£13.51,1,In stock,15.12
+415,nonfiction,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",£57.83,1,In stock,66.28
+416,nonfiction,Letter to a Christian Nation,£22.20,1,In stock,25.58
+417,nonfiction,Let's Pretend This Never Happened: A Mostly True Memoir,£45.11,1,In stock,52.33
+418,nonfiction,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,£42.38,1,In stock,48.84
+419,nonfiction,Into the Wild,£56.70,5,In stock,65.12
+420,nonfiction,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",£28.85,3,In stock,32.56
+421,nonfiction,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,£28.88,2,In stock,32.56
+422,nonfiction,Gratitude,£26.66,5,In stock,30.23
+423,nonfiction,Disrupted: My Misadventure in the Start-Up Bubble,£15.28,5,In stock,17.44
+424,nonfiction,Brave Enough,£51.32,5,In stock,59.3
+425,nonfiction,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",£27.35,2,In stock,31.4
+426,nonfiction,Blink: The Power of Thinking Without Thinking,£21.74,5,In stock,24.42
+427,nonfiction,Black Flags: The Rise of ISIS,£40.87,1,In stock,46.51
+428,nonfiction,Are We Smart Enough to Know How Smart Animals Are?,£56.58,1,In stock,65.12
+429,nonfiction,A Walk in the Woods: Rediscovering America on the Appalachian Trail,£30.48,4,In stock,34.88
+430,nonfiction,"The Suffragettes (Little Black Classics, #96)",£11.89,2,In stock,12.79
+431,nonfiction,Kindle Paperwhite User's Guide,£34.00,3,In stock,39.53
+432,nonfiction,H is for Hawk,£57.42,5,In stock,66.28
+433,nonfiction,Travels with Charley: In Search of America,£57.82,5,In stock,66.28
+434,nonfiction,The Tumor,£41.56,5,In stock,47.67
+435,nonfiction,The End of the Jesus Era (An Investigation #1),£14.40,1,In stock,16.28
+436,nonfiction,"Eat, Pray, Love",£51.32,3,In stock,59.3
+437,music,Rip it Up and Start Again,£35.02,5,In stock,40.7
+438,music,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",£57.25,3,In stock,66.28
+439,music,How Music Works,£37.32,2,In stock,43.02
+440,music,Love Is a Mix Tape (Music #1),£18.03,1,In stock,20.93
+441,music,Please Kill Me: The Uncensored Oral History of Punk,£31.19,4,In stock,36.05
+442,music,Kill 'Em and Leave: Searching for James Brown and the American Soul,£45.05,5,In stock,52.33
+443,music,"Chronicles, Vol. 1",£52.60,2,In stock,60.47
+444,music,This Is Your Brain on Music: The Science of a Human Obsession,£38.40,1,In stock,44.19
+445,music,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",£12.36,3,In stock,13.95
+446,music,No One Here Gets Out Alive,£20.02,5,In stock,23.26
+447,music,Life,£31.58,5,In stock,36.05
+448,music,Old Records Never Die: One Man's Quest for His Vinyl and His Past,£55.66,2,In stock,63.95
+449,music,Forever Rockers (The Rocker #12),£28.80,3,In stock,32.56
+450,default,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",£17.93,3,In stock,19.77
+451,default,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,£22.60,4,In stock,25.58
+452,default,"Starving Hearts (Triangular Trade Trilogy, #1)",£13.99,2,In stock,15.12
+453,default,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,£22.50,3,In stock,25.58
+454,default,Aladdin and His Wonderful Lamp,£53.13,3,In stock,61.63
+455,default,Penny Maybe,£33.29,3,In stock,38.37
+456,default,Maude (1883-1993):She Grew Up with the country,£18.02,2,In stock,20.93
+457,default,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",£20.59,5,In stock,23.26
+458,default,Soul Reader,£39.58,2,In stock,45.35
+459,default,Bossypants,£49.46,2,In stock,56.98
+460,default,A World of Flavor: Your Gluten Free Passport,£42.95,1,In stock,48.84
+461,default,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",£56.76,5,In stock,65.12
+462,default,Tracing Numbers on a Train,£41.60,3,In stock,47.67
+463,default,Thirteen Reasons Why,£52.72,1,In stock,60.47
+464,default,The Secret (The Secret #1),£27.37,4,In stock,31.4
+465,default,The Psychopath Test: A Journey Through the Madness Industry,£36.00,2,In stock,41.86
+466,default,The Kite Runner,£41.82,4,In stock,47.67
+467,default,The Girl on the Train,£55.02,2,In stock,63.95
+468,default,The Emerald Mystery,£23.15,2,In stock,26.74
+469,default,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,£32.00,3,In stock,37.21
+470,default,The Art of War,£33.34,5,In stock,38.37
+471,default,Secrets and Lace (Fatal Hearts #1),£20.27,1,In stock,23.26
+472,default,Romero and Juliet: A Tragic Tale of Love and Zombies,£36.94,1,In stock,41.86
+473,default,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,£41.06,1,In stock,47.67
+474,default,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),£10.76,1,In stock,11.63
+475,default,Large Print Heart of the Pride,£19.15,2,In stock,22.09
+476,default,Grumbles,£22.16,2,In stock,25.58
+477,default,First Steps for New Christians (Print Edition),£29.00,1,In stock,33.72
+478,default,Eureka Trivia 6.0,£54.59,4,In stock,62.79
+479,default,Drive: The Surprising Truth About What Motivates Us,£34.95,4,In stock,39.53
+480,default,Done Rubbed Out (Reightman & Bailey #1),£37.72,5,In stock,43.02
+481,default,Beauty Restored (Riley Family Legacy Novellas #3),£11.11,2,In stock,12.79
+482,default,Ayumi's Violin,£15.48,2,In stock,17.44
+483,default,Anonymous,£46.82,4,In stock,53.49
+484,default,Amy Meets the Saints and Sages,£18.46,3,In stock,20.93
+485,default,Amatus,£50.54,5,In stock,58.14
+486,default,V for Vendetta (V for Vendetta Complete),£37.10,4,In stock,43.02
+487,default,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",£45.95,2,In stock,52.33
+488,default,The Wright Brothers,£56.80,4,In stock,65.12
+489,default,The Songs of the Gods,£44.48,5,In stock,51.16
+490,default,The Rosie Project (Don Tillman #1),£54.04,1,In stock,62.79
+491,default,The Power of Habit: Why We Do What We Do in Life and Business,£16.88,3,In stock,18.6
+492,default,Steve Jobs,£39.50,5,In stock,45.35
+493,default,Luckiest Girl Alive,£49.83,3,In stock,56.98
+494,default,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",£46.91,4,In stock,53.49
+495,default,Lady Midnight (The Dark Artifices #1),£16.28,5,In stock,18.6
+496,default,"Hush, Hush (Hush, Hush #1)",£47.02,3,In stock,54.65
+497,default,Greek Mythic History,£10.23,5,In stock,11.63
+498,default,Every Last Word,£46.47,3,In stock,53.49
+499,default,Daily Fantasy Sports,£36.58,1,In stock,41.86
+500,default,Clockwork Angel (The Infernal Devices #1),£44.14,1,In stock,51.16
+501,default,City of Fallen Angels (The Mortal Instruments #4),£11.23,4,In stock,12.79
+502,default,City of Bones (The Mortal Instruments #1),£43.28,1,In stock,50.0
+503,default,City of Ashes (The Mortal Instruments #2),£47.27,1,In stock,54.65
+504,default,"Carry On, Warrior: Thoughts on Life Unarmed",£31.85,3,In stock,36.05
+505,default,Carrie,£46.23,2,In stock,53.49
+506,default,Angels & Demons (Robert Langdon #1),£51.48,3,In stock,59.3
+507,default,"The Three Searches, Meaning, and the Story",£13.33,3,In stock,15.12
+508,default,Raspberry Pi Electronics Projects for the Evil Genius,£49.67,4,In stock,56.98
+509,default,How to Speak Golf: An Illustrated Guide to Links Lingo,£58.32,5,In stock,67.44
+510,default,Eleanor & Park,£56.51,5,In stock,65.12
+511,default,Troublemaker: Surviving Hollywood and Scientology,£48.39,2,In stock,55.81
+512,default,Adultery,£20.88,5,In stock,23.26
+513,default,Unlimited Intuition Now,£58.87,4,In stock,67.44
+514,default,Underlying Notes,£11.82,2,In stock,12.79
+515,default,The New Brand You: Your New Image Makes the Sale for You,£44.05,5,In stock,51.16
+516,default,The Flowers Lied,£16.68,2,In stock,18.6
+517,default,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",£10.41,4,In stock,11.63
+518,default,Modern Day Fables,£47.44,2,In stock,54.65
+519,default,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),£43.62,5,In stock,50.0
+520,default,The Martian (The Martian #1),£41.39,2,In stock,47.67
+521,default,Left Behind (Left Behind #1),£40.72,2,In stock,46.51
+522,default,John Vassos: Industrial Design for Modern Life,£20.22,4,In stock,23.26
+523,default,I'll Give You the Sun,£56.48,1,In stock,65.12
+524,default,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,£52.86,2,In stock,60.47
+525,default,Ender's Game (The Ender Quintet #1),£43.64,1,In stock,50.0
+526,default,Death by Leisure: A Cautionary Tale,£37.51,4,In stock,43.02
+527,default,Wildlife of New York: A Five-Borough Coloring Book,£22.14,2,In stock,25.58
+528,default,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,£34.72,1,In stock,39.53
+529,default,The Great Gatsby,£36.05,4,In stock,41.86
+530,default,The Good Girl,£49.03,3,In stock,56.98
+531,default,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,£33.17,4,In stock,38.37
+532,default,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,£20.90,2,In stock,23.26
+533,default,Life of Pi,£13.22,4,In stock,15.12
+534,default,The Sound Of Love,£57.84,5,In stock,66.28
+535,default,The Perks of Being a Wallflower,£55.02,3,In stock,63.95
+536,default,The Makings of a Fatherless Child,£31.58,2,In stock,36.05
+537,default,The Hobbit (Middle-Earth Universe),£17.80,5,In stock,19.77
+538,default,The Fellowship of the Ring (The Lord of the Rings #1),£10.27,2,In stock,11.63
+539,default,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,£30.60,3,In stock,34.88
+540,default,Musicophilia: Tales of Music and the Brain,£46.58,1,In stock,53.49
+541,default,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,£53.68,4,In stock,61.63
+542,default,The Fault in Our Stars,£47.22,1,In stock,54.65
+543,default,The Dream Thieves (The Raven Cycle #2),£34.50,1,In stock,39.53
+544,default,The 5th Wave (The 5th Wave #1),£11.83,2,In stock,12.79
+545,default,Shiver (The Wolves of Mercy Falls #1),£16.23,5,In stock,18.6
+546,default,Remember Me?,£11.48,3,In stock,12.79
+547,default,If I Stay (If I Stay #1),£38.13,5,In stock,44.19
+548,default,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),£36.55,2,In stock,41.86
+549,default,Harry Potter and the Deathly Hallows (Harry Potter #7),£23.32,1,In stock,26.74
+550,default,Fool Me Once,£16.96,1,In stock,18.6
+551,default,Drama,£38.70,2,In stock,44.19
+552,default,"Blue Lily, Lily Blue (The Raven Cycle #3)",£34.13,5,In stock,39.53
+553,default,Alight (The Generations Trilogy #2),£58.59,4,In stock,67.44
+554,default,Vogue Colors A to Z: A Fashion Coloring Book,£52.35,4,In stock,60.47
+555,default,The Shining (The Shining #1),£27.88,3,In stock,31.4
+556,default,The Hunger Games (The Hunger Games #1),£29.85,5,In stock,33.72
+557,default,Outlander (Outlander #1),£19.67,5,In stock,22.09
+558,default,Mockingjay (The Hunger Games #3),£20.44,4,In stock,23.26
+559,default,Harry Potter and the Sorcerer's Stone (Harry Potter #1),£13.90,3,In stock,15.12
+560,default,Confessions of a Shopaholic (Shopaholic #1),£48.94,2,In stock,55.81
+561,default,Zero History (Blue Ant #3),£34.77,1,In stock,39.53
+562,default,World War Z: An Oral History of the Zombie War,£21.80,1,In stock,24.42
+563,default,Wild: From Lost to Found on the Pacific Crest Trail,£46.02,3,In stock,53.49
+564,default,"Where'd You Go, Bernadette",£18.13,1,In stock,20.93
+565,default,Twilight (Twilight #1),£41.93,2,In stock,47.67
+566,default,The Paris Wife,£36.80,3,In stock,41.86
+567,default,The Maze Runner (The Maze Runner #1),£20.93,1,In stock,23.26
+568,default,The Lover's Dictionary,£58.09,2,In stock,67.44
+569,default,The Goldfinch,£43.58,3,In stock,50.0
+570,default,The Giver (The Giver Quartet #1),£12.30,1,In stock,13.95
+571,default,The Girl Who Played with Fire (Millennium Trilogy #2),£22.14,2,In stock,25.58
+572,default,The Demon-Haunted World: Science as a Candle in the Dark,£52.25,4,In stock,60.47
+573,default,The Book Thief,£53.49,2,In stock,61.63
+574,default,The Autobiography of Malcolm X,£23.43,2,In stock,26.74
+575,default,Shopaholic & Baby (Shopaholic #5),£46.45,2,In stock,53.49
+576,default,Quiet: The Power of Introverts in a World That Can't Stop Talking,£43.55,1,In stock,50.0
+577,default,Packing for Mars: The Curious Science of Life in the Void,£56.68,2,In stock,65.12
+578,default,Orange Is the New Black,£24.61,2,In stock,27.91
+579,default,One for the Money (Stephanie Plum #1),£32.87,2,In stock,37.21
+580,default,Morning Star (Red Rising #3),£29.40,1,In stock,33.72
+581,default,Life After Life,£26.13,2,In stock,30.23
+582,default,"Lean In: Women, Work, and the Will to Lead",£25.02,1,In stock,29.07
+583,default,Is Everyone Hanging Out Without Me? (And Other Concerns),£20.11,3,In stock,23.26
+584,default,Gone Girl,£37.60,5,In stock,43.02
+585,default,Fellside,£38.62,1,In stock,44.19
+586,default,Eclipse (Twilight #3),£18.74,1,In stock,20.93
+587,default,Dracula,£52.62,3,In stock,60.47
+588,default,Dead Wake: The Last Crossing of the Lusitania,£39.24,5,In stock,45.35
+589,default,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",£17.81,1,In stock,19.77
+590,default,Dark Places,£23.90,5,In stock,26.74
+591,default,Breaking Dawn (Twilight #4),£35.28,5,In stock,40.7
+592,default,Beautiful Creatures (Caster Chronicles #1),£21.55,5,In stock,24.42
+593,default,A Visit from the Goon Squad,£14.08,5,In stock,16.28
+594,default,The Zombie Room,£19.69,5,In stock,22.09
+595,default,The Name of the Wind (The Kingkiller Chronicle #1),£50.59,3,In stock,58.14
+596,default,Taking Shots (Assassins #1),£18.88,2,In stock,20.93
+597,default,Shatter Me (Shatter Me #1),£42.40,1,In stock,48.84
+598,default,Paradise Lost (Paradise #1),£24.96,1,In stock,27.91
+599,default,On the Road (Duluoz Legend),£32.36,3,In stock,37.21
+600,default,Jane Eyre,£38.43,5,In stock,44.19
+601,default,Frankenstein,£38.00,2,In stock,44.19
+602,science-fiction,Mesaerion: The Best Science Fiction Stories 1800-1849,£37.59,1,In stock,43.02
+603,science-fiction,Join,£35.67,5,In stock,40.7
+604,science-fiction,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",£43.30,4,In stock,50.0
+605,science-fiction,The Project,£10.65,1,In stock,11.63
+606,science-fiction,Soft Apocalypse,£26.12,2,In stock,30.23
+607,science-fiction,Sleeping Giants (Themis Files #1),£48.74,1,In stock,55.81
+608,science-fiction,Arena,£21.36,4,In stock,24.42
+609,science-fiction,Foundation (Foundation (Publication Order) #1),£32.42,1,In stock,37.21
+610,science-fiction,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),£10.92,1,In stock,11.63
+611,science-fiction,Ready Player One,£19.07,4,In stock,22.09
+612,science-fiction,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",£33.26,2,In stock,38.37
+613,science-fiction,Dune (Dune #1),£54.86,1,In stock,62.79
+614,science-fiction,Do Androids Dream of Electric Sheep? (Blade Runner #1),£51.48,1,In stock,59.3
+615,science-fiction,Three Wishes (River of Time: California #1),£44.18,2,In stock,51.16
+616,science-fiction,The Last Girl (The Dominion Trilogy #1),£36.26,2,In stock,41.86
+617,science-fiction,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),£34.96,4,In stock,39.53
+618,sports-and-games,The Book of Basketball: The NBA According to The Sports Guy,£44.84,5,In stock,51.16
+619,sports-and-games,"Friday Night Lights: A Town, a Team, and a Dream",£51.22,3,In stock,59.3
+620,sports-and-games,Sugar Rush (Offensive Line #2),£24.42,1,In stock,27.91
+621,sports-and-games,Settling the Score (The Summer Games #1),£44.91,2,In stock,51.16
+622,sports-and-games,Icing (Aces Hockey #2),£40.44,4,In stock,46.51
+623,add-a-comment,The Torch Is Passed: A Harding Family Story,£19.09,1,In stock,22.09
+624,add-a-comment,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",£23.89,4,In stock,26.74
+625,add-a-comment,The Art Forger,£40.76,3,In stock,46.51
+626,add-a-comment,On a Midnight Clear,£14.07,3,In stock,16.28
+627,add-a-comment,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),£53.90,2,In stock,61.63
+628,add-a-comment,"Shobu Samurai, Project Aryoku (#3)",£29.06,3,In stock,33.72
+629,add-a-comment,Modern Romance,£28.26,5,In stock,32.56
+630,add-a-comment,The White Queen (The Cousins' War #1),£25.91,5,In stock,29.07
+631,add-a-comment,The Song of Achilles,£37.40,5,In stock,43.02
+632,add-a-comment,The Immortal Life of Henrietta Lacks,£40.67,2,In stock,46.51
+633,add-a-comment,The Dovekeepers,£48.78,1,In stock,55.81
+634,add-a-comment,More Than Music (Chasing the Dream #1),£37.61,2,In stock,43.02
+635,add-a-comment,Code Name Verity (Code Name Verity #1),£22.13,4,In stock,25.58
+636,add-a-comment,Cell,£20.29,4,In stock,23.26
+637,add-a-comment,Angels Walking (Angels Walking #1),£34.20,2,In stock,39.53
+638,add-a-comment,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",£56.48,2,In stock,65.12
+639,add-a-comment,A People's History of the United States,£40.79,2,In stock,46.51
+640,add-a-comment,A Brush of Wings (Angels Walking #3),£55.51,1,In stock,63.95
+641,add-a-comment,Rook,£37.86,4,In stock,43.02
+642,add-a-comment,The Midnight Watch: A Novel of the Titanic and the Californian,£26.20,1,In stock,30.23
+643,add-a-comment,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,£59.15,4,In stock,68.6
+644,add-a-comment,The Children,£11.88,3,In stock,12.79
+645,add-a-comment,One with You (Crossfire #5),£15.71,4,In stock,17.44
+646,add-a-comment,Without Shame,£48.27,5,In stock,55.81
+647,add-a-comment,Watchmen,£58.05,4,In stock,67.44
+648,add-a-comment,A Hero's Curse (The Unseen Chronicles #1),£50.49,3,In stock,58.14
+649,add-a-comment,23 Degrees South: A Tropical Tale of Changing Whether...,£35.79,2,In stock,40.7
+650,add-a-comment,The Glass Castle,£16.24,1,In stock,18.6
+651,add-a-comment,The Drowning Girls,£35.67,3,In stock,40.7
+652,add-a-comment,Team of Rivals: The Political Genius of Abraham Lincoln,£20.12,5,In stock,23.26
+653,add-a-comment,John Adams,£57.43,4,In stock,66.28
+654,add-a-comment,Good in Bed (Cannie Shapiro #1),£37.05,5,In stock,43.02
+655,add-a-comment,The Joy of Cooking,£43.27,4,In stock,50.0
+656,add-a-comment,The Golden Compass (His Dark Materials #1),£18.77,1,In stock,20.93
+657,add-a-comment,The God Delusion,£46.85,3,In stock,53.49
+658,add-a-comment,Pride and Prejudice,£19.27,4,In stock,22.09
+659,add-a-comment,Mere Christianity,£48.51,3,In stock,55.81
+660,add-a-comment,Fun Home: A Family Tragicomic,£56.59,4,In stock,65.12
+661,add-a-comment,The Raven King (The Raven Cycle #4),£30.57,2,In stock,34.88
+662,add-a-comment,Find Her (Detective D.D. Warren #8),£22.37,1,In stock,25.58
+663,add-a-comment,Evicted: Poverty and Profit in the American City,£42.27,1,In stock,48.84
+664,add-a-comment,A Game of Thrones (A Song of Ice and Fire #1),£46.42,2,In stock,53.49
+665,add-a-comment,A Clash of Kings (A Song of Ice and Fire #2),£10.79,3,In stock,11.63
+666,add-a-comment,The Tipping Point: How Little Things Can Make a Big Difference,£10.02,2,In stock,11.63
+667,add-a-comment,The Rest Is Noise: Listening to the Twentieth Century,£34.77,1,In stock,39.53
+668,add-a-comment,The Purpose Driven Life: What on Earth Am I Here for?,£37.19,3,In stock,43.02
+669,add-a-comment,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),£47.80,3,In stock,54.65
+670,add-a-comment,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),£57.48,1,In stock,66.28
+671,add-a-comment,"The End of Faith: Religion, Terror, and the Future of Reason",£22.13,4,In stock,25.58
+672,add-a-comment,The Complete Poems,£41.32,5,In stock,47.67
+673,add-a-comment,The Catcher in the Rye,£24.55,1,In stock,27.91
+674,add-a-comment,The Case for Christ (Cases for Christianity),£47.84,1,In stock,54.65
+675,add-a-comment,The Blind Side: Evolution of a Game,£53.71,5,In stock,61.63
+676,add-a-comment,Seven Days in the Art World,£52.33,2,In stock,60.47
+677,add-a-comment,Sarah's Key,£46.29,1,In stock,53.49
+678,add-a-comment,Rogue Lawyer (Rogue Lawyer #1),£50.11,3,In stock,58.14
+679,add-a-comment,Manuscript Found in Accra,£34.98,2,In stock,39.53
+680,add-a-comment,Fire Bound (Sea Haven/Sisters of the Heart #5),£21.28,4,In stock,24.42
+681,add-a-comment,Cosmos,£36.17,2,In stock,41.86
+682,add-a-comment,#GIRLBOSS,£50.96,1,In stock,58.14
+683,add-a-comment,The Sense of an Ending,£31.38,3,In stock,36.05
+684,add-a-comment,The Republic,£33.78,3,In stock,38.37
+685,add-a-comment,The Odyssey,£29.64,3,In stock,33.72
+686,add-a-comment,The Light of the Fireflies,£54.43,1,In stock,62.79
+687,add-a-comment,The Iliad,£16.16,1,In stock,18.6
+688,add-a-comment,The Communist Manifesto,£14.76,3,In stock,16.28
+689,add-a-comment,Lord of the Flies,£24.89,3,In stock,27.91
+690,fantasy,Unicorn Tracks,£18.78,3,In stock,20.93
+691,fantasy,"Saga, Volume 6 (Saga (Collected Editions) #6)",£25.02,3,In stock,29.07
+692,fantasy,Princess Between Worlds (Wide-Awake Princess #5),£13.34,5,In stock,15.12
+693,fantasy,Masks and Shadows,£56.40,2,In stock,65.12
+694,fantasy,Crown of Midnight (Throne of Glass #2),£43.29,3,In stock,50.0
+695,fantasy,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",£28.09,2,In stock,32.56
+696,fantasy,A Court of Thorns and Roses (A Court of Thorns and Roses #1),£52.37,1,In stock,60.47
+697,fantasy,Throne of Glass (Throne of Glass #1),£35.07,3,In stock,40.7
+698,fantasy,The Glittering Court (The Glittering Court #1),£44.28,1,In stock,51.16
+699,fantasy,Hollow City (Miss Peregrine’s Peculiar Children #2),£42.98,1,In stock,48.84
+700,fantasy,The Star-Touched Queen,£46.02,5,In stock,53.49
+701,fantasy,The Hidden Oracle (The Trials of Apollo #1),£52.26,2,In stock,60.47
+702,fantasy,The Bane Chronicles (The Bane Chronicles #1-11),£44.73,4,In stock,51.16
+703,fantasy,Island of Dragons (Unwanteds #7),£29.65,1,In stock,33.72
+704,fantasy,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),£37.51,5,In stock,43.02
+705,fantasy,City of Glass (The Mortal Instruments #3),£56.02,4,In stock,65.12
+706,fantasy,Searching for Meaning in Gailana,£38.73,1,In stock,44.19
+707,fantasy,The Star-Touched Queen,£32.30,5,In stock,37.21
+708,fantasy,A Shard of Ice (The Black Symphony Saga #1),£56.63,3,In stock,65.12
+709,fantasy,King's Folly (The Kinsman Chronicles #1),£39.61,5,In stock,45.35
+710,fantasy,Every Heart a Doorway (Every Heart A Doorway #1),£12.16,5,In stock,13.95
+711,fantasy,A Gathering of Shadows (Shades of Magic #2),£44.81,4,In stock,51.16
+712,fantasy,The Raven Boys (The Raven Cycle #1),£57.74,4,In stock,66.28
+713,fantasy,The False Prince (The Ascendance Trilogy #1),£56.00,5,In stock,65.12
+714,fantasy,Tell the Wind and Fire,£45.51,3,In stock,52.33
+715,fantasy,A Feast for Crows (A Song of Ice and Fire #4),£17.21,4,In stock,19.77
+716,fantasy,The Demonists (Demonist #1),£52.11,2,In stock,60.47
+717,fantasy,The Beast (Black Dagger Brotherhood #14),£46.08,5,In stock,53.49
+718,fantasy,Paper and Fire (The Great Library #2),£49.45,5,In stock,56.98
+719,fantasy,Harry Potter and the Order of the Phoenix (Harry Potter #5),£31.63,4,In stock,36.05
+720,fantasy,Harry Potter and the Half-Blood Prince (Harry Potter #6),£48.75,5,In stock,55.81
+721,fantasy,Harry Potter and the Chamber of Secrets (Harry Potter #2),£14.74,1,In stock,16.28
+722,fantasy,The Rose & the Dagger (The Wrath and the Dawn #2),£58.64,4,In stock,67.44
+723,fantasy,Soldier (Talon #3),£24.72,2,In stock,27.91
+724,fantasy,Midnight Riot (Peter Grant/ Rivers of London - books #1),£55.46,2,In stock,63.95
+725,fantasy,Heir to the Sky,£44.07,4,In stock,51.16
+726,fantasy,Eragon (The Inheritance Cycle #1),£43.87,3,In stock,50.0
+727,fantasy,Darkfever (Fever #1),£56.02,1,In stock,65.12
+728,fantasy,Ash,£22.06,4,In stock,25.58
+729,fantasy,A Storm of Swords (A Song of Ice and Fire #3),£31.22,2,In stock,36.05
+730,fantasy,Vampire Girl (Vampire Girl #1),£53.82,2,In stock,61.63
+731,fantasy,The Silent Twin (Detective Jennifer Knight #3),£36.25,3,In stock,41.86
+732,fantasy,The Mirror & the Maze (The Wrath and the Dawn #1.5),£29.38,1,In stock,33.72
+733,fantasy,Sister Sable (The Mad Queen #1),£13.33,3,In stock,15.12
+734,fantasy,Shadow Rites (Jane Yellowrock #10),£21.72,4,In stock,24.42
+735,fantasy,Origins (Alphas 0.5),£28.99,1,In stock,32.56
+736,fantasy,One Second (Seven #7),£52.94,2,In stock,60.47
+737,fantasy,Myriad (Prentor #1),£58.75,4,In stock,67.44
+738,new-adult,Without Borders (Wanderlove #1),£45.07,2,In stock,52.33
+739,new-adult,The Mistake (Off-Campus #2),£43.29,3,In stock,50.0
+740,new-adult,The Matchmaker's Playbook (Wingmen Inc. #1),£55.85,1,In stock,63.95
+741,new-adult,The Hook Up (Game On #1),£36.29,5,In stock,41.86
+742,new-adult,Shameless,£58.35,3,In stock,67.44
+743,new-adult,Off Sides (Off #1),£39.45,5,In stock,45.35
+744,young-adult,The Requiem Red,£22.65,1,In stock,25.58
+745,young-adult,Set Me Free,£17.46,5,In stock,19.77
+746,young-adult,The Natural History of Us (The Fine Art of Pretending #2),£45.22,3,In stock,52.33
+747,young-adult,Obsidian (Lux #1),£14.86,2,In stock,16.28
+748,young-adult,Burning,£28.81,3,In stock,32.56
+749,young-adult,A Fierce and Subtle Poison,£28.13,4,In stock,32.56
+750,young-adult,Scarlett Epstein Hates It Here,£43.55,5,In stock,50.0
+751,young-adult,"Nightingale, Sing",£38.28,1,In stock,44.19
+752,young-adult,Library of Souls (Miss Peregrine’s Peculiar Children #3),£48.56,5,In stock,55.81
+753,young-adult,Frostbite (Vampire Academy #2),£29.99,5,In stock,33.72
+754,young-adult,Wild Swans,£14.36,2,In stock,16.28
+755,young-adult,Until Friday Night (The Field Party #1),£46.31,2,In stock,53.49
+756,young-adult,This Is Where It Ends,£27.12,2,In stock,31.4
+757,young-adult,The Darkest Lie,£35.35,5,In stock,40.7
+758,young-adult,My Kind of Crazy,£40.36,1,In stock,46.51
+759,young-adult,Don't Get Caught,£55.35,1,In stock,63.95
+760,young-adult,Catching Jordan (Hundred Oaks),£50.83,3,In stock,58.14
+761,young-adult,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),£58.14,4,In stock,67.44
+762,young-adult,The Epidemic (The Program 0.6),£14.44,5,In stock,16.28
+763,young-adult,Stars Above (The Lunar Chronicles #4.5),£48.05,2,In stock,55.81
+764,young-adult,No Love Allowed (Dodge Cove #1),£54.65,4,In stock,62.79
+765,young-adult,"Exit, Pursued by a Bear",£51.34,4,In stock,59.3
+766,young-adult,The Alien Club,£54.40,1,In stock,62.79
+767,young-adult,Don't Forget Steven,£33.23,1,In stock,38.37
+768,young-adult,South of Sunshine,£28.93,1,In stock,32.56
+769,young-adult,My Life Next Door (My Life Next Door ),£36.39,5,In stock,41.86
+770,young-adult,Future Shock (Future Shock #1),£55.65,5,In stock,63.95
+771,young-adult,Nightstruck: A Novel,£50.35,4,In stock,58.14
+772,young-adult,Tell the Wolves I'm Home,£50.96,2,In stock,58.14
+773,young-adult,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",£47.31,4,In stock,54.65
+774,young-adult,Where She Went (If I Stay #2),£41.73,4,In stock,47.67
+775,young-adult,Two Summers,£14.64,1,In stock,16.28
+776,young-adult,The Darkest Corners,£11.33,5,In stock,12.79
+777,young-adult,Tell Me Three Things,£41.81,1,In stock,47.67
+778,young-adult,Lola and the Boy Next Door (Anna and the French Kiss #2),£23.63,4,In stock,26.74
+779,young-adult,Kill the Boy Band,£15.52,5,In stock,17.44
+780,young-adult,Isla and the Happily Ever After (Anna and the French Kiss #3),£48.13,5,In stock,55.81
+781,young-adult,An Abundance of Katherines,£10.00,5,In stock,11.63
+782,young-adult,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),£24.17,4,In stock,27.91
+783,young-adult,Walk the Edge (Thunder Road #2),£32.36,3,In stock,37.21
+784,young-adult,Two Boys Kissing,£32.74,2,In stock,37.21
+785,young-adult,The New Guy (and Other Senior Year Distractions),£44.92,3,In stock,51.16
+786,young-adult,"The Land of 10,000 Madonnas",£29.64,4,In stock,33.72
+787,young-adult,Scarlet (The Lunar Chronicles #2),£14.57,4,In stock,16.28
+788,young-adult,Legend (Legend #1),£43.69,4,In stock,50.0
+789,young-adult,Lady Renegades (Rebel Belle #3),£53.04,5,In stock,61.63
+790,young-adult,Golden (Heart of Dread #3),£42.21,4,In stock,48.84
+791,young-adult,Cinder (The Lunar Chronicles #1),£26.09,1,In stock,30.23
+792,young-adult,Boy Meets Boy,£21.12,3,In stock,24.42
+793,young-adult,Annie on My Mind,£36.83,5,In stock,41.86
+794,young-adult,New Moon (Twilight #2),£12.86,4,In stock,13.95
+795,young-adult,Girl Online On Tour (Girl Online #2),£53.47,1,In stock,61.63
+796,young-adult,The Haters,£27.89,5,In stock,31.4
+797,young-adult,The Art of Not Breathing,£40.83,4,In stock,46.51
+798,science,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,£42.96,4,In stock,48.84
+799,science,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,£57.36,5,In stock,66.28
+800,science,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,£44.74,4,In stock,51.16
+801,science,Tipping Point for Planet Earth: How Close Are We to the Edge?,£37.55,1,In stock,43.02
+802,science,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",£55.91,1,In stock,63.95
+803,science,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,£28.41,1,In stock,32.56
+804,science,The Origin of Species,£10.01,4,In stock,11.63
+805,science,The Grand Design,£13.76,3,In stock,15.12
+806,science,Peak: Secrets from the New Science of Expertise,£16.28,2,In stock,18.6
+807,science,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",£13.03,4,In stock,15.12
+808,science,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",£57.35,5,In stock,66.28
+809,science,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",£25.83,2,In stock,29.07
+810,science,Seven Brief Lessons on Physics,£30.60,4,In stock,34.88
+811,science,The Selfish Gene,£29.45,1,In stock,33.72
+812,poetry,A Light in the Attic,£51.77,3,In stock,59.3
+813,poetry,The Black Maria,£52.15,1,In stock,60.47
+814,poetry,Shakespeare's Sonnets,£20.66,4,In stock,23.26
+815,poetry,Olio,£23.88,1,In stock,26.74
+816,poetry,You can't bury them all: Poems,£33.63,2,In stock,38.37
+817,poetry,Slow States of Collapse: Poems,£57.31,3,In stock,66.28
+818,poetry,Untitled Collection: Sabbath Poems 2014,£14.27,4,In stock,16.28
+819,poetry,Poems That Make Grown Women Cry,£14.19,4,In stock,16.28
+820,poetry,Night Sky with Exit Wounds,£41.05,1,In stock,47.67
+821,poetry,salt.,£46.78,4,In stock,53.49
+822,poetry,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",£50.89,5,In stock,58.14
+823,poetry,Out of Print: City Lights Spotlight No. 14,£53.64,5,In stock,61.63
+824,poetry,Les Fleurs du Mal,£29.04,5,In stock,33.72
+825,poetry,Howl and Other Poems,£40.45,2,In stock,46.51
+826,poetry,Leave This Song Behind: Teen Poetry at Its Best,£51.17,5,In stock,59.3
+827,poetry,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),£15.42,5,In stock,17.44
+828,poetry,The Crossover,£38.77,4,In stock,44.19
+829,poetry,Booked,£17.49,5,In stock,19.77
+830,poetry,Twenty Love Poems and a Song of Despair,£30.95,4,In stock,34.88
+831,paranormal,"Vampire Knight, Vol. 1 (Vampire Knight #1)",£15.40,1,In stock,17.44
+832,art,Wall and Piece,£44.18,4,In stock,51.16
+833,art,Feathers: Displays of Brilliant Plumage,£49.05,3,In stock,56.98
+834,art,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,£48.63,4,In stock,55.81
+835,art,The New Drawing on the Right Side of the Brain,£43.02,3,In stock,50.0
+836,art,History of Beauty,£10.29,4,In stock,11.63
+837,art,The Story of Art,£41.14,4,In stock,47.67
+838,art,The Art Book,£32.34,2,In stock,37.21
+839,art,Ways of Seeing,£39.51,5,In stock,45.35
+840,psychology,The Lucifer Effect: Understanding How Good People Turn Evil,£10.40,1,In stock,11.63
+841,psychology,The Golden Condom: And Other Essays on Love Lost and Found,£39.43,1,In stock,45.35
+842,psychology,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,£56.27,3,In stock,65.12
+843,psychology,An Unquiet Mind: A Memoir of Moods and Madness,£21.30,3,In stock,24.42
+844,psychology,"Thinking, Fast and Slow",£21.14,1,In stock,24.42
+845,psychology,Civilization and Its Discontents,£59.95,2,In stock,68.6
+846,psychology,8 Keys to Mental Health Through Exercise,£31.04,1,In stock,36.05
+847,autobiography,The Argonauts,£10.93,2,In stock,11.63
+848,autobiography,M Train,£27.18,1,In stock,31.4
+849,autobiography,Lab Girl,£40.85,1,In stock,46.51
+850,autobiography,Approval Junkie: Adventures in Caring Too Much,£58.81,5,In stock,67.44
+851,autobiography,Running with Scissors,£12.91,4,In stock,13.95
+852,autobiography,Me Talk Pretty One Day,£57.60,2,In stock,66.28
+853,autobiography,Lust & Wonder,£11.87,2,In stock,12.79
+854,autobiography,Life Without a Recipe,£59.04,5,In stock,68.6
+855,autobiography,A Heartbreaking Work of Staggering Genius,£54.29,5,In stock,62.79
+856,parenting,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,£37.35,2,In stock,43.02
+857,adult-fiction,Fifty Shades Freed (Fifty Shades #3),£15.36,5,In stock,17.44
+858,humor,The Long Haul (Diary of a Wimpy Kid #9),£44.07,1,In stock,51.16
+859,humor,Old School (Diary of a Wimpy Kid #10),£11.83,5,In stock,12.79
+860,humor,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,£25.98,4,In stock,29.07
+861,humor,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",£14.75,5,In stock,16.28
+862,humor,Dress Your Family in Corduroy and Denim,£43.68,3,In stock,50.0
+863,humor,Toddlers Are A**holes: It's Not Your Fault,£25.55,1,In stock,29.07
+864,humor,When You Are Engulfed in Flames,£30.89,5,In stock,34.88
+865,humor,Naked,£31.69,3,In stock,36.05
+866,humor,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",£55.50,5,In stock,63.95
+867,humor,Holidays on Ice,£51.07,2,In stock,59.3
+868,horror,Security,£39.25,2,In stock,45.35
+869,horror,Follow You Home,£21.36,1,In stock,24.42
+870,horror,The Loney,£23.40,1,In stock,26.74
+871,horror,Pet Sematary,£10.56,3,In stock,11.63
+872,horror,Doctor Sleep (The Shining #2),£40.12,2,In stock,46.51
+873,horror,Psycho: Sanitarium (Psycho #1.5),£36.97,5,In stock,41.86
+874,horror,Can You Keep a Secret? (Fear Street Relaunch #4),£48.64,1,In stock,55.81
+875,horror,Red Dragon (Hannibal Lecter #1),£23.37,3,In stock,26.74
+876,horror,Dracula the Un-Dead,£35.63,5,In stock,40.7
+877,horror,Night Shift (Night Shift #1-20),£12.75,4,In stock,13.95
+878,horror,Needful Things,£47.51,4,In stock,54.65
+879,horror,Misery,£34.79,2,In stock,39.53
+880,horror,It,£25.01,3,In stock,29.07
+881,horror,'Salem's Lot,£49.56,4,In stock,56.98
+882,horror,The Stand,£57.86,2,In stock,66.28
+883,horror,The Girl with All the Gifts,£49.47,3,In stock,56.98
+884,horror,House of Leaves,£54.89,1,In stock,62.79
+885,history,Sapiens: A Brief History of Humankind,£54.23,5,In stock,62.79
+886,history,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",£25.52,1,In stock,29.07
+887,history,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,£19.73,1,In stock,22.09
+888,history,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",£36.28,2,In stock,41.86
+889,history,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,£59.64,1,In stock,68.6
+890,history,Zealot: The Life and Times of Jesus of Nazareth,£24.70,3,In stock,27.91
+891,history,A Distant Mirror: The Calamitous 14th Century,£14.58,3,In stock,16.28
+892,history,1491: New Revelations of the Americas Before Columbus,£21.80,3,In stock,24.42
+893,history,Brilliant Beacons: A History of the American Lighthouse,£11.45,3,In stock,12.79
+894,history,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",£44.48,5,In stock,51.16
+895,history,A Short History of Nearly Everything,£52.40,5,In stock,60.47
+896,history,The Rise and Fall of the Third Reich: A History of Nazi Germany,£39.67,2,In stock,45.35
+897,history,Catherine the Great: Portrait of a Woman,£58.55,4,In stock,67.44
+898,history,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,£42.91,5,In stock,48.84
+899,history,The Hiding Place,£55.91,4,In stock,63.95
+900,history,America's War for the Greater Middle East: A Military History,£51.22,2,In stock,59.3
+901,history,The Guns of August,£14.54,2,In stock,16.28
+902,history,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",£43.70,2,In stock,50.0
+903,food-and-drink,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",£30.52,3,In stock,34.88
+904,food-and-drink,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",£56.41,1,In stock,65.12
+905,food-and-drink,My Paris Kitchen: Recipes and Stories,£33.37,2,In stock,38.37
+906,food-and-drink,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",£14.02,4,In stock,16.28
+907,food-and-drink,"Layered: Baking, Building, and Styling Spectacular Cakes",£40.11,1,In stock,46.51
+908,food-and-drink,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,£37.34,5,In stock,43.02
+909,food-and-drink,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,£37.60,2,In stock,43.02
+910,food-and-drink,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,£41.25,1,In stock,47.67
+911,food-and-drink,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",£42.16,3,In stock,48.84
+912,food-and-drink,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,£28.77,3,In stock,32.56
+913,food-and-drink,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",£19.55,1,In stock,22.09
+914,food-and-drink,Barefoot Contessa Back to Basics,£28.01,1,In stock,32.56
+915,food-and-drink,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,£50.62,5,In stock,58.14
+916,food-and-drink,My Kitchen Year: 136 Recipes That Saved My Life,£11.53,2,In stock,12.79
+917,food-and-drink,Everyday Italian: 125 Simple and Delicious Recipes,£20.10,5,In stock,23.26
+918,food-and-drink,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",£38.77,1,In stock,44.19
+919,food-and-drink,Cravings: Recipes for What You Want to Eat,£20.50,3,In stock,23.26
+920,food-and-drink,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",£12.34,4,In stock,13.95
+921,food-and-drink,32 Yolks,£53.63,2,In stock,61.63
+922,food-and-drink,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",£11.38,5,In stock,12.79
+923,food-and-drink,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),£46.01,4,In stock,53.49
+924,food-and-drink,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,£28.25,2,In stock,32.56
+925,food-and-drink,The Barefoot Contessa Cookbook,£59.92,5,In stock,68.6
+926,food-and-drink,Better Homes and Gardens New Cook Book,£39.61,3,In stock,45.35
+927,food-and-drink,The Power Greens Cookbook: 140 Delicious Superfood Recipes,£11.05,5,In stock,12.79
+928,food-and-drink,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,£24.91,5,In stock,27.91
+929,food-and-drink,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,£13.66,2,In stock,15.12
+930,food-and-drink,The Smitten Kitchen Cookbook,£23.59,1,In stock,26.74
+931,food-and-drink,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",£34.32,3,In stock,39.53
+932,food-and-drink,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,£33.14,3,In stock,38.37
+933,christian-fiction,Redeeming Love,£20.47,5,In stock,23.26
+934,christian-fiction,Close to You,£49.46,4,In stock,56.98
+935,christian-fiction,Shadows of the Past (Logan Point #1),£39.67,5,In stock,45.35
+936,christian-fiction,Like Never Before (Walker Family #2),£28.77,2,In stock,32.56
+937,christian-fiction,Counted With the Stars (Out from Egypt #1),£17.97,5,In stock,19.77
+938,christian-fiction,If I Run (If I Run #1),£49.97,4,In stock,56.98
+939,business,The Dirty Little Secrets of Getting Your Dream Job,£33.34,4,In stock,38.37
+940,business,The Third Wave: An Entrepreneur’s Vision of the Future,£12.61,5,In stock,13.95
+941,business,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,£27.55,3,In stock,31.4
+942,business,Shoe Dog: A Memoir by the Creator of NIKE,£23.99,2,In stock,26.74
+943,business,Made to Stick: Why Some Ideas Survive and Others Die,£38.85,5,In stock,44.19
+944,business,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,£43.14,1,In stock,50.0
+945,business,The Art of Startup Fundraising,£21.00,3,In stock,24.42
+946,business,Born for This: How to Find the Work You Were Meant to Do,£21.59,5,In stock,24.42
+947,business,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,£36.91,1,In stock,41.86
+948,business,"Rich Dad, Poor Dad",£51.74,1,In stock,59.3
+949,business,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,£33.92,3,In stock,38.37
+950,business,Rework,£44.88,2,In stock,51.16
+951,biography,Louisa: The Extraordinary Life of Mrs. Adams,£16.85,2,In stock,18.6
+952,biography,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",£21.15,2,In stock,24.42
+953,biography,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,£39.55,1,In stock,45.35
+954,biography,Benjamin Franklin: An American Life,£48.19,3,In stock,55.81
+955,biography,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),£42.57,3,In stock,48.84
+956,thriller,In Her Wake,£12.84,1,In stock,13.95
+957,thriller,The Elephant Tree,£23.82,5,In stock,26.74
+958,thriller,Behind Closed Doors,£52.22,4,In stock,60.47
+959,thriller,You (You #1),£43.61,5,In stock,50.0
+960,thriller,The Guilty (Will Robie #4),£13.82,2,In stock,15.12
+961,thriller,The 14th Colony (Cotton Malone #11),£39.24,1,In stock,45.35
+962,thriller,Give It Back,£18.32,2,In stock,20.93
+963,thriller,Killing Floor (Jack Reacher #1),£31.49,4,In stock,36.05
+964,thriller,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),£59.71,3,In stock,68.6
+965,thriller,Far From True (Promise Falls Trilogy #2),£34.93,2,In stock,39.53
+966,thriller,The Travelers,£15.77,1,In stock,17.44
+967,contemporary,When We Collided,£31.77,1,In stock,36.05
+968,contemporary,Someone Like You (The Harrisons #2),£52.79,5,In stock,60.47
+969,contemporary,We Are All Completely Beside Ourselves,£24.04,1,In stock,27.91
+970,spirituality,The Four Agreements: A Practical Guide to Personal Freedom,£17.66,5,In stock,19.77
+971,spirituality,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,£32.24,5,In stock,37.21
+972,spirituality,Chasing Heaven: What Dying Taught Me About Living,£37.80,2,In stock,43.02
+973,spirituality,If I Gave You God's Phone Number....: Searching for Spirituality in America,£20.91,1,In stock,23.26
+974,spirituality,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,£46.33,2,In stock,53.49
+975,spirituality,A New Earth: Awakening to Your Life's Purpose,£55.65,5,In stock,63.95
+976,academic,Logan Kade (Fallen Crest High #5.5),£13.12,2,In stock,15.12
+977,self-help,Online Marketing for Busy Authors: A Step-By-Step Guide,£46.35,1,In stock,53.49
+978,self-help,How to Be Miserable: 40 Strategies You Already Use,£46.03,1,In stock,53.49
+979,self-help,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",£52.15,3,In stock,60.47
+980,self-help,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,£12.08,3,In stock,13.95
+981,self-help,How to Stop Worrying and Start Living,£46.49,5,In stock,53.49
+982,historical,All the Light We Cannot See,£29.87,5,In stock,33.72
+983,historical,The Girl You Left Behind (The Girl You Left Behind #1),£15.79,1,In stock,17.44
+984,christian,(Un)Qualified: How God Uses Broken People to Do Big Things,£54.00,5,In stock,62.79
+985,christian,Crazy Love: Overwhelmed by a Relentless God,£47.72,2,In stock,54.65
+986,christian,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,£25.77,1,In stock,29.07
+987,suspense,Silence in the Dark (Logan Point #4),£58.33,3,In stock,67.44
+988,short-stories,The Grownup,£35.88,1,In stock,40.7
+989,novels,Suzie Snowflake: One beautiful flake (a self-esteem story),£54.81,5,In stock,62.79
+990,health,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",£49.05,3,In stock,56.98
+991,health,"Eat Fat, Get Thin",£54.07,2,In stock,62.79
+992,health,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,£49.71,5,In stock,56.98
+993,health,The Art and Science of Low Carbohydrate Living,£52.98,5,In stock,60.47
+994,politics,Libertarianism for Beginners,£51.33,2,In stock,59.3
+995,politics,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,£52.65,4,In stock,60.47
+996,politics,Equal Is Unfair: America's Misguided Fight Against Income Inequality,£56.86,1,In stock,65.12
+997,cultural,Amid the Chaos,£36.58,1,In stock,41.86
+998,erotica,Dark Notes,£19.19,5,In stock,22.09
+999,crime,The Long Shadow of Small Ghosts: Murder and Memory in an American City,£10.97,1,In stock,11.63
