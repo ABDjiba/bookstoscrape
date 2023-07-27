@@ -46,7 +46,7 @@ if st.button("Exécuter les tâches"):
 
             with cadre3:
                 st.markdown("### Catégorie avec le plus de livres")
-                st.markdown(f"## {max.iloc[0,0]})
+                st.markdown(f"## {max.iloc[0,0]}")
 
 
             st.markdown("### médianes des prix en fonction des catégories")
