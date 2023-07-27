@@ -28,7 +28,6 @@ if st.button("Exécuter les tâches"):
             with cadre1 :
                 st.markdown("### Nombre de livres")
                 value=f"{len(data)} Livres"
-                st.markdown(f'<style>div.stMarkdown span {{ color: white; }}</style>', unsafe_allow_html=True)
                 st.markdown(f"## {value}")
 
 
@@ -47,7 +46,7 @@ if st.button("Exécuter les tâches"):
 
             with cadre3:
                 st.markdown("### Catégorie avec le plus de livres")
-                st.write(max.iloc[0,0])
+                st.markdown(f"## {max.iloc[0,0]})
 
 
             st.markdown("### médianes des prix en fonction des catégories")
